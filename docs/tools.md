@@ -1,7 +1,7 @@
 ---
 title: Tools
+permalink: "/docs/tools/"
 layout: docs
-permalink: /docs/tools/
 ---
 
 <p class="lead">Webfly is used together with other tools to integrate with all sorts of setups and workflows.</p>

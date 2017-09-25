@@ -1,7 +1,7 @@
 ---
 title: Configuration
+permalink: "/docs/config/"
 layout: docs
-permalink: /docs/config/
 ---
 
 <p class="lead">Webfly can be configured using JSON in a .webflyrc file. For example:</p>

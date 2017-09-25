@@ -1,7 +1,7 @@
 ---
 title: Creating Packages
+permalink: "/docs/creating-packages/"
 layout: docs
-permalink: /docs/creating-packages/
 ---
 
 ## webfly.json

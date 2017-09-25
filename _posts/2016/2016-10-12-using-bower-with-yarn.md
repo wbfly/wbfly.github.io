@@ -1,5 +1,6 @@
 ---
-title: "Using Webfly with Yarn"
+title: Using Webfly with Yarn
+date: 2016-10-12 00:00:00 Z
 author: benmann
 ---
 

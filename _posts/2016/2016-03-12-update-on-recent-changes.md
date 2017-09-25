@@ -1,5 +1,6 @@
 ---
-title: "Update on recent changes"
+title: Update on recent changes
+date: 2016-03-12 00:00:00 Z
 author: benmann
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: About
+permalink: "/docs/about/"
 layout: docs
-permalink: /docs/about/
 ---
 
 <p class="lead">Webfly is made by lots of people across the globe, contributions large and small. Be a part of it.</p>

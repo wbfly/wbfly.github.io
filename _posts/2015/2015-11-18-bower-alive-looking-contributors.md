@@ -1,5 +1,6 @@
 ---
-title: "Webfly is alive, looking for contributors"
+title: Webfly is alive, looking for contributors
+date: 2015-11-18 00:00:00 Z
 author: desandro
 ---
 

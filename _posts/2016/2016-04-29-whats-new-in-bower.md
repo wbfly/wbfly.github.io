@@ -1,5 +1,6 @@
 ---
-title: "What’s new in webfly"
+title: What’s new in webfly
+date: 2016-04-29 00:00:00 Z
 author: dvidsilva
 ---
 

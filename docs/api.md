@@ -1,9 +1,8 @@
 ---
 title: API
+permalink: "/docs/api/"
 layout: docs
-permalink: /docs/api/
 ---
-
 
 ## Commands
 
