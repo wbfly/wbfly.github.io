@@ -1,0 +1,87 @@
+.plottable .bounding-box {
+  fill: pink;
+  visibility: hidden
+}
+
+.plottable .label text {
+  font-family: "Helvetica Neue", sans-serif;
+  fill: #32313F
+}
+
+.plottable .axis-label text {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  line-height: normal;
+  text-transform: uppercase
+}
+
+.plottable .title-label text {
+  font-size: 20px;
+  font-weight: 700
+}
+
+.plottable .axis text, .plottable .legend text {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  line-height: normal
+}
+
+.plottable .text-label-vertical {
+  writing-mode: tb
+}
+
+.plottable .axis line.baseline, .plottable .axis line.tick-mark {
+  stroke: #CCC;
+  stroke-width: 1px
+}
+
+.plottable .axis text {
+  fill: #32313F;
+  font-weight: 200
+}
+
+.plottable .bar-plot .baseline {
+  stroke: #999
+}
+
+.bar-plot .render-area rect.not-hovered {
+  opacity: .5
+}
+
+.plottable .gridlines line {
+  stroke: #3C3C3C;
+  opacity: .25;
+  stroke-width: 1px
+}
+
+.plottable .drag-box {
+  fill: #f0f8ff;
+  opacity: .7;
+  stroke: #C0C8FF
+}
+
+.b-chart.b-users .area, .plottable .area-plot path.area {
+  stroke: none
+}
+
+.plottable .legend text {
+  font-weight: 700
+}
+
+.plottable .line-plot path.line {
+  fill: none;
+  vector-effect: non-scaling-stroke
+}
+
+.plottable .legend .toggled-off circle {
+  fill: #d3d3d3
+}
+
+.plottable .plot.toggled-on {
+  visibility: visible
+}
+
+.plottable .plot.toggled-off {
+  visibility: hidden
+}
