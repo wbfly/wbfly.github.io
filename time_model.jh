@@ -1,0 +1,15 @@
+entity Date {
+	time Long
+}
+
+paginate  Date with pager 
+
+service  Date with  serviceImpl
+
+dto   Date with Mapstruct
+
+angularSuffix   Date with all
+
+microservice  Date  with microservice
+
+search  Date with  microservice
